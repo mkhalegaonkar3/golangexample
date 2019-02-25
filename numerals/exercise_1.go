@@ -5,7 +5,7 @@ import (
 	"runtime"
 )
 
-func main(){
+func main() {
 
 	fmt.Println(runtime.GOARCH)
 	fmt.Println(runtime.GOOS)

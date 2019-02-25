@@ -1,1 +1,0 @@
-package ninja_exrcise_5

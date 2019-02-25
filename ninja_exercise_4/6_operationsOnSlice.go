@@ -16,7 +16,7 @@ Utah`, ` Vermont`, ` Virginia`, ` Washington`, ` West Virginia`, ` Wisconsin`, `
 	fmt.Println(len(statesOfAmerica))
 	fmt.Println(cap(statesOfAmerica))
 
-	for i:=0;i<len(statesOfAmerica);i++{
-		fmt.Println(i,statesOfAmerica[i])
+	for i := 0; i < len(statesOfAmerica); i++ {
+		fmt.Println(i, statesOfAmerica[i])
 	}
 }

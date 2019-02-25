@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31e1687f-585a-4eba-85bf-4a71bcf102cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ninja_exercise_4/append_slice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ninja_exercise_4/creationOfMap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ninja_exercise_4/multidiamensionalSlice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ninja_exercise_4/operationsOnSlice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ninja_exercise_4/slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ninja_exrcise_5/2_structWithMap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ninja_exrcise_5/3_embeddedStruct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ninja_exrcise_5/4_anonymousStruct.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_to_pkg/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/intro_to_pkg/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/1_array.go" beforeDir="false" afterPath="$PROJECT_DIR$/ninja_exercise_4/1_array.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/2_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/ninja_exercise_4/2_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/3_4_5_append_slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/ninja_exercise_4/3_4_5_append_slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/6_operationsOnSlice.go" beforeDir="false" afterPath="$PROJECT_DIR$/ninja_exercise_4/6_operationsOnSlice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/7_multidiamensionalSlice.go" beforeDir="false" afterPath="$PROJECT_DIR$/ninja_exercise_4/7_multidiamensionalSlice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/8_9_10_creationOfMap.go" beforeDir="false" afterPath="$PROJECT_DIR$/ninja_exercise_4/8_9_10_creationOfMap.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/append_slice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/array.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/creationOfMap.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/multidiamensionalSlice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/operationsOnSlice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exercise_4/slice.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ninja_exrcise_5/createStruct.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/numerals/exercise_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/numerals/exercise_1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/short_declaration/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/short_declaration/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var_keyword/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/var_keyword/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var_keyword/zero_value.go" beforeDir="false" afterPath="$PROJECT_DIR$/var_keyword/zero_value.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,25 +34,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ninja_exercise_4/multidiamensionalSlice.go">
+        <entry file="file://$PROJECT_DIR$/ninja_exrcise_5/3_embeddedStruct.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-600">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ninja_exercise_4/creationOfMap.go">
+        <entry file="file://$PROJECT_DIR$/ninja_exrcise_5/4_anonymousStruct.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-280">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -70,6 +80,14 @@
         <option value="$PROJECT_DIR$/ninja_exercise_4/operationsOnSlice.go" />
         <option value="$PROJECT_DIR$/ninja_exercise_4/multidiamensionalSlice.go" />
         <option value="$PROJECT_DIR$/ninja_exercise_4/creationOfMap.go" />
+        <option value="$PROJECT_DIR$/ninja_exrcise_5/createStruct.go" />
+        <option value="$PROJECT_DIR$/ninja_exercise_4/3_4_5_append_slice.go" />
+        <option value="$PROJECT_DIR$/ninja_exrcise_5/1_createStruct.go" />
+        <option value="$PROJECT_DIR$/ninja_exrcise_5/2_structWithMap.go" />
+        <option value="$PROJECT_DIR$/ninja_exrcise_5/3_embeddedStruct.go" />
+        <option value="$PROJECT_DIR$/ninja_exrcise_5/4_anonymousStruct.go" />
+        <option value="F:/webTouch/expressJS/index.html" />
+        <option value="F:/webTouch/OnlineExaminatonPortal/index.html" />
       </list>
     </option>
   </component>
@@ -95,7 +113,7 @@
             <path>
               <item name="golangexample" type="b2602c69:ProjectViewProjectNode" />
               <item name="golangexample" type="462c0819:PsiDirectoryNode" />
-              <item name="ninja_exercise_4" type="462c0819:PsiDirectoryNode" />
+              <item name="ninja_exrcise_5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,7 +129,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,59 +143,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build creationOfMap.go">
-    <configuration name="go build append_slice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 4_anonymousStruct.go">
+    <configuration name="go build 1_createStruct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golangexample" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja_exercise_4/append_slice.go" />
+      <filePath value="$PROJECT_DIR$/ninja_exrcise_5/1_createStruct.go" />
       <package value="github.com/mkhalegaonkar3/golangexample" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build creationOfMap.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 2_structWithMap.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golangexample" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja_exercise_4/creationOfMap.go" />
+      <filePath value="$PROJECT_DIR$/ninja_exrcise_5/2_structWithMap.go" />
       <package value="github.com/mkhalegaonkar3/golangexample" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build multidiamensionalSlice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 3_embeddedStruct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golangexample" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja_exercise_4/multidiamensionalSlice.go" />
+      <filePath value="$PROJECT_DIR$/ninja_exrcise_5/3_embeddedStruct.go" />
       <package value="github.com/mkhalegaonkar3/golangexample" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build operationsOnSlice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 4_anonymousStruct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golangexample" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja_exercise_4/operationsOnSlice.go" />
+      <filePath value="$PROJECT_DIR$/ninja_exrcise_5/4_anonymousStruct.go" />
       <package value="github.com/mkhalegaonkar3/golangexample" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build slice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build createStruct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golangexample" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/ninja_exercise_4/slice.go" />
+      <filePath value="$PROJECT_DIR$/ninja_exrcise_5/createStruct.go" />
       <package value="github.com/mkhalegaonkar3/golangexample" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build creationOfMap.go" />
-        <item itemvalue="Go Build.go build multidiamensionalSlice.go" />
-        <item itemvalue="Go Build.go build operationsOnSlice.go" />
-        <item itemvalue="Go Build.go build append_slice.go" />
-        <item itemvalue="Go Build.go build slice.go" />
+        <item itemvalue="Go Build.go build 4_anonymousStruct.go" />
+        <item itemvalue="Go Build.go build 3_embeddedStruct.go" />
+        <item itemvalue="Go Build.go build 2_structWithMap.go" />
+        <item itemvalue="Go Build.go build 1_createStruct.go" />
+        <item itemvalue="Go Build.go build createStruct.go" />
       </list>
     </recent_temporary>
   </component>
@@ -187,11 +205,11 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.27231467" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17170954" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37315875" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12765957" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -262,44 +280,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/slice.go">
+    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/multidiamensionalSlice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/creationOfMap.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ninja_exrcise_5/createStruct.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/slice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
           <caret line="7" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ninja_exercise_4/append_slice.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="390">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ninja_exercise_4/operationsOnSlice.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
+        <state relative-caret-position="720">
           <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/multidiamensionalSlice.go">
+    <entry file="file://$PROJECT_DIR$/ninja_exrcise_5/1_createStruct.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="92">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/6_operationsOnSlice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-568" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/3_4_5_append_slice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/8_9_10_creationOfMap.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ninja_exrcise_5/2_structWithMap.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/webTouch/expressJS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/webTouch/OnlineExaminatonPortal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="32" column="75" selection-start-line="32" selection-start-column="75" selection-end-line="32" selection-end-column="75" />
           <folding>
-            <element signature="e#14#42#0" expanded="true" />
+            <element signature="e#1588#1595#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ninja_exercise_4/creationOfMap.go">
+    <entry file="file://$PROJECT_DIR$/ninja_exrcise_5/3_embeddedStruct.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-600">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ninja_exrcise_5/4_anonymousStruct.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
