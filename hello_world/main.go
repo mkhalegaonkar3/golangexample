@@ -1,24 +1,24 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-	fmt.Println("Hi this is my program in golang.")
+	n := 5
+	a := 1
 
-	foo1()
+	for i := 0; i < n; i++ {
+		for k := 5; k > i; k-- {
+			fmt.Print(" ")
 
-	for i := 0; i < 100; i++ {
-		if i%2 != 0 {
-			fmt.Println("loading...")
-			fmt.Println(i)
 		}
-	}
-	bar1()
-}
+		for j := 0; j <= i; j++ {
+			fmt.Print(" ", a)
+			a++
+		}
 
-func foo1() {
-	fmt.Println("This is my first function in golang , welcome to foo world ")
-}
-func bar1() {
-	fmt.Println("thanks for bearing us through out the program....")
+		fmt.Println()
+	}
+
 }
